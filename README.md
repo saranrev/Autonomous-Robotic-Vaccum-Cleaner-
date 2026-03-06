@@ -1,4 +1,4 @@
-# Autonomous-Robotic-Vaccum-Cleaner-
+# Autonomous-Robotic-Vacuum-Cleaner-
 Autonomous robotic vacuum cleaner built using ESP32 and C programming for automatic floor cleaning without manual effort, featuring obstacle detection using sensors.
 Project Overview:
 This project presents an Autonomous Robotic Vacuum Cleaner designed to clean floors automatically without human intervention. The robot moves in a random path pattern while continuously detecting obstacles using sensors. When an obstacle is detected, the robot changes its direction and continues cleaning, ensuring effective floor coverage.
